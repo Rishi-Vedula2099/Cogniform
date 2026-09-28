@@ -1,0 +1,1 @@
+web: pnpm --filter @cogniform/api start
